@@ -1,1 +1,1 @@
-Roman Kryvulia 535st2
+Kryvulia R.S., student of group 535st2
