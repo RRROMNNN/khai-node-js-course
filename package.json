@@ -1,0 +1,11 @@
+{
+  "name": "khai-node-js-course",
+  "version": "1.0.0",
+  "description": "Kryvulia R.S., student of group 535st2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
